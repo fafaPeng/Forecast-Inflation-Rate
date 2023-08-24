@@ -4,9 +4,9 @@ Since the outbreak of the COVID-19 pandemic, western nations have seen a rapid i
 
 High inflation rates negatively impact a country's economy in two significant ways:
 
-Reduced Purchasing Power: The domestic currency loses its purchasing power, causing people to spend more money on the same goods.
+    1. Reduced Purchasing Power: The domestic currency loses its purchasing power, causing people to spend more money on the same goods.
 
-Lower Savings and Investments: People have less money to save, and returns from investments are reduced.
+    2. Lower Savings and Investments: People have less money to save, and returns from investments are reduced.
 
 2. Goal
 The aim of this project is to fit a time-series model to forecast future inflation rate trends in the U.S. This will assist the Federal Reserve in adjusting the target interest rate to maintain economic stability. Striking a balance is crucial: raising interest rates too much could plunge the economy into a recession, while too little change would be ineffective.
