@@ -1,7 +1,15 @@
-# Forecast-Inflation-Rate
-#1. Background
-Since the beginning of the COVID-19 pandemic, the rapidly increasing inflation rate has become a phenomenon across western nations. The main causes of this phenomenon are labour shortage which leads to supply shock which drives the price level up, and the increase in expenditure on goods which fueled by government transfers during the pandemic. Among all western advanced countries, the US faces the highest inflation rate. In June, the U.S. Bureau of Labor Statistics announced the inflation rate as measured by Consumer Price Index, was 9.1%, the highest in over four decades. The Federal Reserve has increased the target interest rate five times in the past year to lower the inflation rate. A high inflation rate will sabotage one country’s economy in two major ways. First, the domestic currency will have less purchasing power which will lead to people spending extra money to purchase the same good. Moreover, people have less money to save in the bank and the returns from the investment will decrease.
-#2. Goal
-Our goal is trying to fit a time series model to forecast the future trend of the inflation rate in the US, so that the Federal Reserve could adjust the target interest rate accordingly to keep economic stability. Since raising the target interest rate too much would cause the economy run into a recession but too little would not be effective to lower the inflation rate. Therefore, by forecasting the future trend of the inflation rate, the FED can observe the effectiveness of their proposed monetary policy and make adjustment accordingly.
-#3. The Data
-Though there are many different indices to measure inflation rate, the data we choose is the 12-Month Percent Change in Consumer Price Index for all urban Consumers, includes all items in U.S. city average, without seasonally adjusted from 2000 to 2022, posted by the U.S. Bureau of Labor Statistic. This is a very popular and commonly used inflation measurement.
+Forecast-Inflation-Rate
+1. Background
+Since the outbreak of the COVID-19 pandemic, western nations have seen a rapid increase in inflation rates. The primary causes for this are labor shortages leading to supply shocks and rising expenditure on goods, fueled by government stimulus packages. Among all western advanced countries, the U.S. has been hit hardest by high inflation. In June, the U.S. Bureau of Labor Statistics reported a Consumer Price Index-based inflation rate of 9.1%—the highest in over four decades. To combat this, the Federal Reserve has hiked the target interest rate five times in the past year.
+
+High inflation rates negatively impact a country's economy in two significant ways:
+
+Reduced Purchasing Power: The domestic currency loses its purchasing power, causing people to spend more money on the same goods.
+
+Lower Savings and Investments: People have less money to save, and returns from investments are reduced.
+
+2. Goal
+The aim of this project is to fit a time-series model to forecast future inflation rate trends in the U.S. This will assist the Federal Reserve in adjusting the target interest rate to maintain economic stability. Striking a balance is crucial: raising interest rates too much could plunge the economy into a recession, while too little change would be ineffective.
+
+3. Data
+Although various indices can measure the inflation rate, we have chosen to use the "12-Month Percent Change in Consumer Price Index for All Urban Consumers," which includes all items in the U.S. city average and is not seasonally adjusted. The data range spans from 2000 to 2022 and is published by the U.S. Bureau of Labor Statistics. This index is a widely-accepted measure of inflation.
